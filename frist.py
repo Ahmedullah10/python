@@ -1,0 +1,2 @@
+name=(nscs)
+print("name")
