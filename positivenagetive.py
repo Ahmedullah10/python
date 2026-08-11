@@ -4,8 +4,8 @@ print("number to be checked :", number)
 if number>0:
             print("This is  positive number.")
 
-elif nmber<0:
+elif number<0:
              print("This is a negative number.")
 
 else:
-     print("This is neutral")
+     print("This is neutral") 
