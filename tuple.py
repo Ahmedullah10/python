@@ -1,0 +1,6 @@
+b = (1,3,"asdf",6) 
+print(b[0])
+print(b[1])
+print(b[2])
+print(b[3])
+print(b)
